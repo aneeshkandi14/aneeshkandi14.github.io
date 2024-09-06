@@ -12,7 +12,7 @@ title                    : "Aneesh Kandi"
 title_separator          : "-"
 name                     : &name "Aneesh Kandi"
 description              : &description "ECE Graduate Student at Purdue WL University"
-url                      : https://ak14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aneeshkandi14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aneeshkandi14/aneeshkandi14.github.io"
 
